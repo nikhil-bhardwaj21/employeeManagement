@@ -107,6 +107,7 @@ const EmployeeList = () => {
           <IconButton color="secondary" onClick={() => handleDelete(params.id)}>
             <DeleteIcon />
           </IconButton>
+          <Box></Box>
         </Box>
       ),
     },
